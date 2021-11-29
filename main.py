@@ -7,3 +7,6 @@ for i in range (0,5000):
 print("均值：",np.mean(x))
 print("方差：",np.var(x))
 
+
+
+
