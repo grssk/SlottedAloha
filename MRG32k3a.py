@@ -32,7 +32,8 @@ class MRG32k3a:
         self.x2_2 = self.x2
         return self.un
 
-_inst=MRG32k3a(100,500,1000)
+
+_inst = MRG32k3a(100, 500, 1000)
 random = _inst.getRandom
 
 if __name__ == "__main__":
