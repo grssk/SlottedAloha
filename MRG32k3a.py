@@ -32,6 +32,8 @@ class MRG32k3a:
         self.x2_2 = self.x2
         return self.un
 
+_inst=MRG32k3a()
+random = _inst.random
 
 if __name__ == "__main__":
     res = []
