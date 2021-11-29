@@ -4,7 +4,9 @@ import MRG32k3a
 x=[]
 for i in range (0,5000):
     # x.append(MyRandom.random())
-    MRG32k3a.random()
+    rand=MRG32k3a.random()
+    x.append(rand)
+    print(rand)
 
 
 print("均值：",np.mean(x))
