@@ -8,5 +8,5 @@ print("均值：",np.mean(x))
 print("方差：",np.var(x))
 
 
-#test git
+import MRG32k3a
 
