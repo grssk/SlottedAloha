@@ -10,8 +10,3 @@ print("方差：",np.var(x))
 
 #test git
 
-#test git
-#test git
-#test git
-#test git
-#test git
