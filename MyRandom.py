@@ -36,3 +36,9 @@ _inst = MT19937()
 random = _inst.random
 
 # test push
+# test push
+# test push
+# test push
+# test push
+# test push
+# test push
